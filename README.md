@@ -17,4 +17,4 @@
 ## 🎗️这些笔记还发布在以下平台
 
 - 作者blog: [https://rce.iloli.moe](https://rce.iloli.moe)
-- 公众号：**Gh0xE9**坑
+- 公众号：**Gh0xE9**
